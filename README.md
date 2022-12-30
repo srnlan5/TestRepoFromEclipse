@@ -12,3 +12,6 @@ Public Static void main(String args[]) throws Exception
 This code is tested for git pull...adding it in github.com 
 and committing in remote repository to be pulled 
 from Eclipse and test
+
+
+Tested Successfully from Eclipse.
